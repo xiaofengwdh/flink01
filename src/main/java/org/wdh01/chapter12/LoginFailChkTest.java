@@ -80,6 +80,7 @@ public class LoginFailChkTest {
         System.out.println("hot-fix");
         System.out.println("master 121");
         System.out.println("hot-121");
+        System.out.println("hot-121");
 
         waringStream.print();
 
