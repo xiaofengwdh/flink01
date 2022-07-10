@@ -1,0 +1,12 @@
+hello world
+hello spark
+hello hive
+hello kylin
+hello hbase
+hello scala
+hello flink
+hello flume
+hello hbase
+hello kafka
+hello zk
+hello music
