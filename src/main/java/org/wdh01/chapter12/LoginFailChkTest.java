@@ -72,7 +72,7 @@ public class LoginFailChkTest {
                 LoginEvent first = map.get("first").get(0);
                 LoginEvent second = map.get("second").get(0);
                 LoginEvent third = map.get("third").get(0);
-                return first.userId + " 三次失败  "
+                return first.userId + " 连续三次失败  "
                         + first.timestamp + " " + second.timestamp + " " + third.timestamp;
             }
         });
