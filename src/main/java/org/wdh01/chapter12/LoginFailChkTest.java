@@ -74,8 +74,10 @@ public class LoginFailChkTest {
                 LoginEvent third = map.get("third").get(0);
                 return first.userId + " zhe连续三次失败  "
                         + first.timestamp + " " + second.timestamp + " " + third.timestamp;
+
             }
         });
+        System.out.println("hot-fix");
 
         waringStream.print();
 
